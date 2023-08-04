@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 import asyncio
 from discord import utils
-import requests
 from PIL import Image,ImageFont,ImageDraw
 import io
 from datetime import datetime, timedelta
